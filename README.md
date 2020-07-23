@@ -1,1 +1,1 @@
-# online-project-management
+# ONLINE-HOTEL-MANAGEMENT-SYSTEM
